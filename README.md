@@ -9,11 +9,12 @@
 
 </div>
 
----
+----->
 
-## 🚀 About Me
+<h2>👋 About Me</h2>
 
-```js
+<pre>
+<code>
 const vamshi = {
   role: "AI / ML Engineer",
   location: "India 🇮🇳",
@@ -111,3 +112,8 @@ const vamshi = {
 
   status: "Open to meaningful open-source contributions and long-term collaboration"
 };
+</code>
+</pre>
+
+<!-- ============== END ABOUT ME ================= -->
+
