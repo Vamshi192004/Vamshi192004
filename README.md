@@ -104,17 +104,6 @@ print(me.philosophy())
 - ⚙️ Focused on reliability, maintainability, and practical deployment considerations.
 
 </details>
-
----
-
-## `> PROJECTS --featured`
-
-<div align="center">
-
-<a href="https://github.com/Vamshi192004">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vamshi192004&repo=YOUR_AGENTIC_REPO&theme=tokyonight&hide_border=true" alt="Agentic AI project card" />
-</a>
-
 </div>
 
 ### ⚡ Featured Builds
