@@ -95,7 +95,6 @@ print(me.philosophy())
 ## `> EXPERIENCE --verbose`
 
 <details open>
-<summary><b>🚀 AI/ML Intern — Appzera (OPC) Pvt Ltd</b> | March 2025 – June 2025</summary>
 
 <br/>
 
@@ -178,37 +177,65 @@ An automated pipeline for generating captions from video content.
 
 ---
 
-## `> GITHUB_ANALYTICS --live`
+## `> AI_LAB --system_architecture`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vamshi192004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=bb86fc&text_color=ffffff" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshi192004&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&text_color=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:050505,50:240046,100:00e5ff&text=INTELLIGENCE%20ENGINE&fontSize=27&fontColor=ffffff&animation=twinkling" />
 
-<br/>
+### ⚡ From Raw Data to Intelligent Decisions
 
-<img width="80%" src="https://streak-stats.demolab.com?user=Vamshi192004&theme=tokyonight&hide_border=true&background=050505&ring=00e5ff&fire=bb86fc&currStreakLabel=00e5ff" />
+```mermaid
+flowchart TD
+    A["📥 Raw Data"] --> B["🧠 Embeddings"]
+    B --> C["🔎 Vector Retrieval"]
+    C --> D["🤖 LLM Reasoning"]
+    D --> E["⚡ AI Agent"]
+    E --> F["🚀 Real-World Output"]
 
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vamshi192004&bg_color=050505&color=00e5ff&line=bb86fc&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20MATRIX" />
+    style A fill:#111827,stroke:#00e5ff,color:#fff
+    style B fill:#111827,stroke:#7c3aed,color:#fff
+    style C fill:#111827,stroke:#00e5ff,color:#fff
+    style D fill:#111827,stroke:#7c3aed,color:#fff
+    style E fill:#111827,stroke:#00e5ff,color:#fff
+    style F fill:#111827,stroke:#7c3aed,color:#fff
+```
 
 </div>
 
 ---
 
-## `> OPEN_SOURCE --connect`
-
-```text
-[+] AI/ML tools and libraries
-[+] LLM infrastructure and RAG frameworks
-[+] Research-to-production engineering
-[+] Developer tooling and documentation
-
-STATUS: OPEN TO MEANINGFUL COLLABORATIONS
-```
+## `> SKILL_MATRIX --capabilities`
 
 <div align="center">
+
+| DOMAIN | CORE CAPABILITIES |
+|:---|:---|
+| 🧠 **LLM Engineering** | Prompt Engineering · Embeddings · RAG |
+| 🤖 **Agentic AI** | Tool Calling · Multi-Agent Workflows |
+| 🔍 **Information Retrieval** | FAISS · Semantic Search · Retrieval |
+| 📊 **Machine Learning** | Classification · Feature Engineering · Model Evaluation |
+| 🛠️ **Backend Engineering** | Python · REST APIs · FastAPI |
+| 🗄️ **Data Engineering** | Pandas · NumPy · SQL · MongoDB |
+
+</div>
+
+---
+
+## `> BUILD_PROTOCOL --repeat`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1800&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=01.+Understand+the+problem.;02.+Design+the+system.;03.+Engineer+the+intelligence.;04.+Test+for+reliability.;05.+Build.+Deploy.+Improve." alt="Animated engineering workflow" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/THINK-SYSTEMS-111111?style=for-the-badge&logo=dependabot&logoColor=00e5ff" />
+<img src="https://img.shields.io/badge/BUILD-INTELLIGENCE-111111?style=for-the-badge&logo=openai&logoColor=bb86fc" />
+<img src="https://img.shields.io/badge/SHIP-IMPACT-111111?style=for-the-badge&logo=rocket&logoColor=00e5ff" />
+
+</div>
+
 
 ### 🌌 THINK BIG. BUILD INTELLIGENTLY. SHIP RELIABLY.
 
